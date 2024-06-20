@@ -29,4 +29,6 @@ Specify whether to trace or obtain statistical data.
 Choose which scheduling algorithms to analyze and provide specific parameters.
 Define the simulation duration and number of tasks.
 For each task, provide details including name, arrival time, and either service time (for most algorithms) or priority (for Aging).
-For more detailed examples and testing scenarios, refer to the provided test cases in the project repository.
+
+Created By = Manav Agrawal
+Submitted to - ACM IIT Roorkee
